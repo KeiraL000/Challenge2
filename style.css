@@ -143,7 +143,7 @@ header div ul li {
     border: 5px solid burlywood;
 }
 
-#crime-image {
+#project-image {
     width: 450px;
     height: 250px;
     border: 5px solid burlywood;
@@ -175,7 +175,7 @@ header div ul li {
     padding-top: 150px;
 }
 
-.horiseon-header, .crime-header {
+.horiseon-header, .project-header {
     position: absolute;
     padding: 20px;
     background-color: burlywood;
