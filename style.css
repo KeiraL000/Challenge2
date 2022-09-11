@@ -143,7 +143,7 @@ header div ul li {
     border: 5px solid burlywood;
 }
 
-#project-image {
+#project-image, #project-image2 {
     width: 450px;
     height: 250px;
     border: 5px solid burlywood;
